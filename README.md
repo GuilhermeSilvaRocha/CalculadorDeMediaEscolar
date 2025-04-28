@@ -1,2 +1,2 @@
 # ExercicioComGPT
-Ele me pediu para criar um sistema de notas de escola e calcular a média
+ChatGPT me pediu para criar um "Calculador de Médias de escola", foi bem simples e me ajudou a entender mais sobre o uso de condicionais
